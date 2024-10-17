@@ -1,12 +1,10 @@
-# GitHub Template
+# Batch Renamer
 
 ## Overview
 
 ### Introduction
 
-Introduce the project and give a description.
-
-Include a link to the website if one is available.
+A simple library for renaming all the files in a directory.
 
 ### Results
 
@@ -53,21 +51,3 @@ Include citation here.
 ## License
 
 This project is licensed under the [Name of license]. Please see the [LICENSE](/LICENSE) file for details.
-
-## Acknowledgements (Optional)
-
-We would like to extend our heartfelt thanks to the following individuals who have contributed to this project.
-
-- [Full Name](https://github.com/username)
-- [Full Name](https://github.com/username)
-- ...
-
-In addition to the contributors listed above, we would like to recognize the exceptional contributions of the following individuals:
-
-- [Full Name](https://github.com/username) - For significant contributions or leadership.
-- [Full Name](https://github.com/username) - For valuable contributions and ongoing support.
-- ...
-
-## Funding (Optional)
-
-Include the source of project funding here.
